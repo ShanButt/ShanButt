@@ -1,12 +1,27 @@
-- 👋 Hi, I’m @ShanButt
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hi, I’m @Butt Shaane 
+**Machine Learning Engineer | Data Scientist | AI Enthusiast**
 
-<!---
-ShanButt/ShanButt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**I’m interested in**  
+- Machine Learning & Deep Learning  
+- Data Wrangling & Feature Engineering  
+- Computer Vision & NLP  
+- Data Visualization & Dashboards  
+- Model Deployment & MLOps  
+
+**I’m currently learning**  
+- Advanced Neural Networks with TensorFlow & PyTorch  
+- Scalable ML with Apache Spark  
+- ML Model Deployment using Docker & FastAPI  
+- Time Series Forecasting and Reinforcement Learning  
+
+**I’m looking to collaborate on**  
+- End-to-end ML pipelines  
+- Real-world data science problems  
+- Open-source ML tools and utilities  
+- Research-based AI projects  
+
+**How to reach me**  
+- Email: Shaanebutt@gmail.com
+  
+**Fun fact**  
+I see the world in data — from coffee habits to traffic flow, everything’s a dataset waiting to be explored.
